@@ -1,3 +1,7 @@
+/*
+Generate all string of length n, drawn from 0 to k-1
+*/
+
 package main
 
 import (
